@@ -1,2 +1,2 @@
-# temporal-neighborhood-aggregation
-Temporal Nighborhood Aggregation for future link prediction
+# temporal-neighbourhood-aggregation
+Temporal Neighbourhood Aggregation for future link prediction
