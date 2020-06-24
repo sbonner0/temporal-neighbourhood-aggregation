@@ -41,11 +41,13 @@ Please not that the `data_loc` flag must be set to the location of your dataset.
 Please cite the associated papers for this work if you use this code:
 
 ```
-@article{bonner2019temporal,
+@inproceedings{bonner2019temporal,
   title={Temporal Neighbourhood Aggregation: Predicting Future Links in Temporal Graphs via Recurrent Variational Graph Convolutions},
   author={Bonner, Stephen and Atapour-Abarghouei, Amir and Jackson, Philip T and Brennan, John and Kureshi, Ibad and Theodoropoulos, Georgios and McGough, Andrew Stephen and Obara, Boguslaw},
-  journal={arXiv preprint arXiv:1908.08402},
-  year={2019}
+  booktitle={2019 IEEE International Conference on Big Data (Big Data)},
+  pages={5336--5345},
+  year={2019},
+  organization={IEEE}
 }
 
 ```
